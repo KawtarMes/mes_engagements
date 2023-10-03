@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 3%;
+}
+h1 {
+    color: blue ;
+    text-align: center;
+    font-family: "Gill Sans", sans-serif;
+   
+  }
+  h2 {
+    color: orange;
+    font-family: "Gill Sans", sans-serif;
+    font-size : large;
+   
+  }
+  ul {
+    font-family: "Gill Sans", sans-serif;
+  }
+ .container {
+    display: flex;
+    justify-content: space-evenly;
+  }
+ 
+   
+  .box {
+    width: 50%;
+  }
+  .Prénoms {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 0.625em
+   /* padding: 10px; */
+}
